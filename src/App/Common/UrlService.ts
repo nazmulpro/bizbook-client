@@ -209,8 +209,8 @@
             this.courier = this.inventoryBaseApi + "/Courier";
             this.courierQuery = this.inventoryBaseApi + "/CourierQuery";
             //accountInfo
-            this.accountInfo = this.inventoryBaseApi + "/AccountInfo";
-            this.accountInfoQuery = this.inventoryBaseApi + "/AccountInfoQuery";
+            this.accountInfo = this.inventoryBaseApi + "/Wallet";
+            this.accountInfoQuery = this.inventoryBaseApi + "/WalletQuery";
 
             this.dealerProduct = this.inventoryBaseApi + "/DealerProduct";
             this.dealerProductQuery = this.inventoryBaseApi + "/DealerProductQuery";
